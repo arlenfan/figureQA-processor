@@ -1,6 +1,6 @@
-data/
-JPG/
-png/
+data/*
+JPG/*
+png/*
 annotations.json
 annotations_format.txt
 MSR Open Data Research License.pdf
